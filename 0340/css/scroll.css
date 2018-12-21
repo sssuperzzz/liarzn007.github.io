@@ -1,0 +1,30 @@
+BODY {
+	scrollbar-face-color: #DFC9BB;
+	scrollbar-3dlight-color: #663300;
+	scrollbar-darkshadow-color: #BB830F;
+	scrollbar-track-color: #DBC0AF;
+	scrollbar-arrow-color:#BB830F;
+	scrollbar-highlight-color:#ffffff;
+	scrollbar-shadow-color: #4D6867;
+	font-family: "宋体", "新宋体", "隶书";
+	font-size: 14px;
+	font-style: normal;
+	background-image: url(../ww_r3_c2.jpg);
+	border: thin;
+	color: #000000;
+	width: 530px;
+	left: 50px;
+	top: 15px;
+	letter-spacing: normal;
+	word-spacing: normal;
+	line-height: 25px;
+	padding-right: 5px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+
+
+
+
+
+
+}

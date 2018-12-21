@@ -1,0 +1,28 @@
+@import url("scroll.css");
+BODY {
+	scrollbar-face-color: #DFC9BB;
+	scrollbar-3dlight-color: #663300;
+	scrollbar-darkshadow-color: #BB830F;
+	scrollbar-track-color: #DBC0AF;
+	scrollbar-arrow-color:#BB830F;
+	scrollbar-highlight-color:#ffffff;
+	scrollbar-shadow-color: #4D6867;
+	font-family: "ËÎÌו";
+	font-size: 14px;
+	font-style: normal;
+	left: 20px;
+
+}
+.dds {  font-size: 14px;
+	left: 100px;
+	color: #996600;
+	word-spacing: 0.2px;
+	letter-spacing: 0.2em;
+	text-indent: 0.3px;
+	line-height: 23px;
+	top: auto;
+
+
+
+
+}

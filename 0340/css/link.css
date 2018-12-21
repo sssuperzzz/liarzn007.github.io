@@ -1,0 +1,11 @@
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+.dd {
+	background-image: url(../ww_r3_c1.jpg);
+	height: 20px;
+	width: 70px;
+}
